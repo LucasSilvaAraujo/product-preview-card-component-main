@@ -1,0 +1,30 @@
+@media (max-width: 415px) {
+
+    .perfume-announce {
+        flex-direction: column;
+        min-width: 375px;
+        min-height: 80vh;
+        margin: 20px;
+    }
+
+    .perfume-announce .perfume-image {
+        background-image: url('../images/image-product-mobile.jpg');
+        width: 375px;
+        height: 40vh;
+        border-radius: 15px 15px 0px 0px;
+    }
+
+    .perfume-announce .perfume-info {
+        width: 375px;
+        height: 60vh;
+    }
+
+    .perfume-announce .perfume-info .perfume-text {
+        width: 94%;
+    }
+
+    .rodape {
+        padding: 10px;
+        font-size: 12px;
+    }
+}
