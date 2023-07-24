@@ -99,8 +99,7 @@ body {
 
 .rodape {
     font-size: 16px;
-    display: flex;
-    justify-content: center;
+    text-align: center;
 }
 
 .perfume-info .add-to-cart:hover {
